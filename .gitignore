@@ -5,6 +5,7 @@
 *.mdb
 *.binaryproto
 *.log
+*.caffemodel
 
 # Images
 *.jpg
