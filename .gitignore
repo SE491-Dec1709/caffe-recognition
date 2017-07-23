@@ -1,2 +1,15 @@
 # IDE's
 .idea/
+
+# Caffe files
+*.mdb
+*.binaryproto
+*.log
+
+# Images
+*.jpg
+*.jpeg
+*.JPEG
+*.JPG
+*.png
+*.PNG
